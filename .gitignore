@@ -1,0 +1,14 @@
+# Ignore text files
+App_Specs.txt
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore specific CSV file
+data/*.csv
+
+# Ignore entire folder
+sample_csv/
+
+# Ignore virtual environment
+venv/
